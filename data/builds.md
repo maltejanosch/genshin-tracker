@@ -27,7 +27,7 @@ Weapon level matters little for HP scalers (Neuvillette, Furina) and EM scalers 
 2. [ ] **Nahida** – swap main stats to EM (sands/goblet/circlet; currently ATK%/Electro/HP%), level Lost Prayer 40 → 80+ (its CRIT Rate substat grows with level). Cheap if EM pieces exist
 3. [ ] **Raiden main stats** – sands EM → ER% or ATK%, goblet ATK% → Electro DMG; level flower/plume. Cheap if pieces exist
 4. [ ] **Bennett weapon** – Kagotsurube Isshin **Lv 60** (weapon base ATK 353, 30.4% ATK; 25.09.2026) – already stronger than the old Skyrider Sword; finish 60 → 80+. His burst buff = % of base ATK. Cheap
-5. [x] **Xingqiu** – Favonius Sword Lv 80, ATK%/Hydro/CRIT DMG mains, Skill 6 / Burst 6 (+3) – done 25.09.2026. Leftovers (artifact levels) are in his section
+5. [x] **Xingqiu** – Favonius Sword Lv 80, ATK%/Hydro/CRIT DMG mains, Skill 6 / Burst 8 (+3) – done 25.09.2026. Leftovers (artifact levels) are in his section
 6. [ ] **Faruzan → Lv 80** – ascend (Lv 60 cap), ER% sands, level her VV pieces. Resin
 7. [ ] **Vesna → Lv 80** – ascend (Lv 50 cap), Skill talent 2 → 6+, level New Bough. Big resin cost – do it only if you enjoy playing her
 8. [ ] **Neuvillette weapon** – Ballad of the Boundless Blue equipped (Lv 20, 25.09.2026); level it to 80+. Small gain since he scales on HP. Cheap
@@ -120,13 +120,13 @@ Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29
 - Weapon: Favonius Sword 4★, Lv 80, R1 (swapped from Sword of Narzissenkreuz and levelled 25.09.2026)
 - Artifacts: 4pc Emblem of Severed Fate + 1 Noblesse · Sands ATK% (+8) · Goblet Hydro DMG (+8) · Circlet CRIT DMG (+13)
 - Stats: ~1076 ATK · 17% CR / 94% CD · 197% ER · 43% Hydro
-- Talents: NA 1 / Skill 6 / Burst 6 (+3)
+- Talents: NA 1 / Skill 6 / Burst 8 (+3)
 - Main stats fixed 25.09.2026 (ATK 416 → 1076, Hydro 20% → 43%). **Still to do:**
   - [x] Main stats: ATK% sands / Hydro DMG goblet / CRIT DMG circlet (25.09.2026)
   - [x] Level Favonius Sword 1 → 80 (25.09.2026)
   - [ ] Level sands and goblet +8 → +16/+20, flower +0 and plume +8 (4★) – cheap stat gains
   - [ ] More CRIT Rate from substats (17% with 94% CRIT DMG); ER at 197% is more than he needs, so ER can give way
-  - [ ] Burst 6 → 8+ when you have Gold books
+  - [x] Burst 6 → 8 (+3) (25.09.2026)
 
 ## Nahida (Lv 90, C0)
 - Weapon: Lost Prayer to the Sacred Winds 5★, **Lv 40**
