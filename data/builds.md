@@ -8,7 +8,9 @@ Stand: 25.09.2026 · Source: Enka API snapshot
 - Free-to-play (no Welkin/spending) · weapon banner not used
 - Wishes (25.09.2026): 55 Primogems · 7 Intertwined Fates · 4 Starglitter
 - Character banner: pity 4 · **not guaranteed** (last 5★ won the 50/50)
-- Next goal: Abyss floors 11–12 (needs two built teams, see `teams.md`)
+- **Play style:** mainly story + 100% exploration of areas; rarely maxes characters, but wants a few strong ones.
+  → Advice should favour cheap, high-impact fixes (main stats, weapon levels, key talents) over deep artifact farming.
+- Endgame (Abyss 11–12 etc.) is optional, not the main goal
 
 ## Akasha rankings (25.09.2026)
 Source: https://akasha.cv/profile/762018318 – percentile among all players with that character on that leaderboard.
