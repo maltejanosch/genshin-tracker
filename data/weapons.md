@@ -56,7 +56,7 @@ Holder `?` = portrait visible but character not identified yet.
 |---|---|---|---|---|
 | Mappa Mare | Catalyst | 20 | 1 | Icon |
 | Favonius Codex | Catalyst | 20 | 4 | Icon? |
-| ? | Sword | 20 | 1 | |
+| Sacrificial Sword | Sword | 20 | 1 | Owner (probably) |
 | ? | Bow | 1 | 1 | (new) |
 | Rust ×2 | Bow | 1 | 1 | Icon |
 | Sacrificial Bow ×3 | Bow | 1 | 1 | Icon |
@@ -94,6 +94,6 @@ Yaoyao's Black Tassel (3★ Lv 20 R5), Lyney's Slingshot (3★ Lv 1 R2),
 Hunter's Bow (1★) on Fischl, Amber, Tighnari and Jahoda, Dull Blade (1★) on Kuki Shinobu, Kirara, Manekina and Qiqi.
 
 ## Still unknown
-Two unused 4★ weapons: a sword at Lv 20 R1 and a new bow at Lv 1.
+One unused 4★ bow at Lv 1 (new) – one of several Lv 1 bows, name still open.
 Holders of Rainslasher Lv 40, Rainslasher Lv 20 and Prototype Archaic Lv 20 – claymore users not yet
 showcased are Diluc, Chongyun and Freminet (batch 3).
