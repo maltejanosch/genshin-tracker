@@ -47,7 +47,7 @@ Holder `?` = portrait visible but character not identified yet.
 | Eye of Perception | Catalyst | 11 | 2 | Ningguang | Enka |
 | Dragon's Bane | Polearm | 1 | 1 | Alyosha | Enka |
 | New Bough | Sword | 1 | 1 | Vesna | Enka |
-| Kagotsurube Isshin | Sword | 1 | 1 | Bennett | Enka |
+| Kagotsurube Isshin | Sword | 60 | 1 | Bennett | Owner |
 | Favonius Sword | Sword | 1 | 1 | Xingqiu | Enka |
 
 ## 4★ unused (22)

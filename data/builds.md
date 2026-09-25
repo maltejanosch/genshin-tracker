@@ -26,7 +26,7 @@ Weapon level matters little for HP scalers (Neuvillette, Furina) and EM scalers 
 1. [ ] **Neuvillette → Lv 90 + main stats** – ascend (boss mats), swap goblet ATK% → Hydro DMG and circlet ATK% → CRIT, then level his 4★/+0 pieces. Resin
 2. [ ] **Nahida** – swap main stats to EM (sands/goblet/circlet; currently ATK%/Electro/HP%), level Lost Prayer 40 → 80+ (its CRIT Rate substat grows with level). Cheap if EM pieces exist
 3. [ ] **Raiden main stats** – sands EM → ER% or ATK%, goblet ATK% → Electro DMG; level flower/plume. Cheap if pieces exist
-4. [ ] **Bennett weapon** – Kagotsurube Isshin equipped (25.09.2026), now **level it 1 → 80+**. Until then his burst buff is *weaker* than before (base ATK 619 → 588). His burst buff = % of base ATK. Cheap
+4. [ ] **Bennett weapon** – Kagotsurube Isshin **Lv 60** (weapon base ATK 353, 30.4% ATK; 25.09.2026) – already stronger than the old Skyrider Sword; finish 60 → 80+. His burst buff = % of base ATK. Cheap
 5. [ ] **Xingqiu** – Favonius Sword equipped (25.09.2026), now **level it 1 → 80+**; fix mains (ATK%/ER% sands, Hydro goblet, CRIT circlet); Burst talent 5 → 8. Cheap + talent books
 6. [ ] **Faruzan → Lv 80** – ascend (Lv 60 cap), ER% sands, level her VV pieces. Resin
 7. [ ] **Vesna → Lv 80** – ascend (Lv 50 cap), Skill talent 2 → 6+, level New Bough. Big resin cost – do it only if you enjoy playing her
@@ -152,12 +152,12 @@ Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29
   - [ ] Talents: Skill first, then Burst
 
 ## Bennett (Lv 90, C4)
-- Weapon: Kagotsurube Isshin 4★, **Lv 1**, R1 (swapped from Skyrider Sword 25.09.2026)
+- Weapon: Kagotsurube Isshin 4★, **Lv 60**, R1 – base ATK 353, ATK% 30.4 (swapped from Skyrider Sword 25.09.2026, levelled same day)
 - Artifacts: 4pc Noblesse Oblige · Sands DEF% · Goblet Pyro · Circlet HP%
 - Stats: ~24.8k HP · 157% ER
 - Talents: NA 8 / Skill 9 (+3) / Burst 10
 - **To fix:**
-  - [ ] Level Kagotsurube Isshin 1 → 80+ (burst buff scales on base ATK)
+  - [ ] Level Kagotsurube Isshin 60 → 80+ (burst buff scales on base ATK)
   - [ ] Replace DEF% sands with ER% or HP%
 
 ## Razor (Lv 90, C0)
