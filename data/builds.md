@@ -27,7 +27,7 @@ Weapon level matters little for HP scalers (Neuvillette, Furina) and EM scalers 
 2. [ ] **Nahida** – swap main stats to EM (sands/goblet/circlet; currently ATK%/Electro/HP%), level Lost Prayer 40 → 80+ (its CRIT Rate substat grows with level). Cheap if EM pieces exist
 3. [ ] **Raiden main stats** – sands EM → ER% or ATK%, goblet ATK% → Electro DMG; level flower/plume. Cheap if pieces exist
 4. [ ] **Bennett weapon** – Kagotsurube Isshin **Lv 60** (weapon base ATK 353, 30.4% ATK; 25.09.2026) – already stronger than the old Skyrider Sword; finish 60 → 80+. His burst buff = % of base ATK. Cheap
-5. [ ] **Xingqiu** – Favonius Sword equipped (25.09.2026), now **level it 1 → 80+**; fix mains (ATK%/ER% sands, Hydro goblet, CRIT circlet); Burst talent 5 → 8. Cheap + talent books
+5. [ ] **Xingqiu** – ~~weapon~~ Favonius Sword Lv 80 done (25.09.2026); still to do: fix mains (ATK%/ER% sands, Hydro goblet, CRIT circlet); Burst talent 5 → 8. Cheap + talent books
 6. [ ] **Faruzan → Lv 80** – ascend (Lv 60 cap), ER% sands, level her VV pieces. Resin
 7. [ ] **Vesna → Lv 80** – ascend (Lv 50 cap), Skill talent 2 → 6+, level New Bough. Big resin cost – do it only if you enjoy playing her
 8. [ ] **Neuvillette weapon** – Ballad of the Boundless Blue equipped (Lv 20, 25.09.2026); level it to 80+. Small gain since he scales on HP. Cheap
@@ -117,14 +117,14 @@ Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29
   - [ ] Weapon Lv 80 → 90
 
 ## Xingqiu (Lv 80, C3) – Team 3
-- Weapon: Favonius Sword 4★, **Lv 1**, R1 (swapped from Sword of Narzissenkreuz 25.09.2026)
+- Weapon: Favonius Sword 4★, Lv 80, R1 (swapped from Sword of Narzissenkreuz and levelled 25.09.2026)
 - Artifacts: 4pc Emblem of Severed Fate (mostly +0) + 1 Noblesse · Sands EM · Goblet Dendro DMG · Circlet CRIT DMG (+0)
 - Stats: ~416 ATK · 8% CR / 59% CD · 156% ER
 - Talents: NA 1 / Skill 4 / Burst 5 (+3)
 - **To fix:**
   - [ ] Main stats: ATK% or ER% sands / Hydro DMG goblet / CRIT circlet
   - [ ] Burst talent first
-  - [ ] Level Favonius Sword 1 → 80+
+  - [x] Level Favonius Sword 1 → 80 (25.09.2026)
 
 ## Nahida (Lv 90, C0)
 - Weapon: Lost Prayer to the Sacred Winds 5★, **Lv 40**
