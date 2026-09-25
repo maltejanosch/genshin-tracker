@@ -5,6 +5,9 @@ Stand: 25.09.2026 · Source: Enka API snapshot
 ## Account
 - AR 57 · World Level 8 · 863 achievements
 - Spiral Abyss best: 10-3 (18★) · Stygian Onslaught: 41s
+- Free-to-play (no Welkin/spending) · weapon banner not used
+- Wishes (25.09.2026): 55 Primogems · 7 Intertwined Fates · 4 Starglitter
+- Character banner: pity 4 · **not guaranteed** (last 5★ won the 50/50)
 - Next goal: Abyss floors 11–12 (needs two built teams, see `teams.md`)
 
 ## Akasha rankings (25.09.2026)
