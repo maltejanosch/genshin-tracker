@@ -1,81 +1,96 @@
 # Weapon inventory
 
 Stand: 25.09.2026 · Source: 2 in-game screenshots (Inventory → Weapons, 113/2000, sorted by Quality),
-cross-checked with the Enka snapshot of the same day
+matched against official weapon icons (Project Amber) and cross-checked with the Enka snapshot
 
-Covers the first 60 of 113 weapons (all 5★ and 4★, first 3★). The rest are 3★ and lower.
+Covers the first 60 of 113 weapons: all 5★ and 4★, plus the highest-level 3★. The rest are 3★ and lower.
+Ascended weapons (Lv 40+) show their alternate icon art in-game, so some Lv 20+ entries are less certain.
 
-**How to read it:** the list is sorted by rarity, then level (high → low). So page 1 has the five 5★
-weapons first, then 4★ from Lv 80 down to Lv 1; page 2 continues with 4★ Lv 1, then 3★.
-Rarity below is taken from that order (the screenshot draft had all of them as 5★).
-- **Confirmed** = matches a character's equipped weapon in Enka (name, level, refinement).
-- **Owner says** = named by Malte, not visible in Enka yet (character not in showcase).
-- `?` = still unknown.
+Status:
+- **Enka** = confirmed from a character's equipped weapon (name, level, refinement)
+- **Icon** = matched from the icon; high confidence
+- **Icon?** = best visual guess; verify in-game
+- **Owner** = named by Malte
+Holder `?` = portrait visible but character not identified yet.
 
 ## 5★ (5)
 
 | Weapon | Type | Lv | R | Holder | Status |
 |---|---|---|---|---|---|
-| Exaiphanes Blade | Sword | 90 | 3 | Cryo Traveler | Confirmed |
-| Skyward Pride | Claymore | 73 | 1 | Razor | Confirmed |
-| Lost Prayer to the Sacred Winds | Catalyst | 40 | 1 | Nahida | Confirmed |
-| Lost Prayer to the Sacred Winds | Catalyst | 20 | 1 | Barbara | Owner says |
-| Amos' Bow | Bow | 1 | 1 | – (unused) | Owner says |
+| Exaiphanes Blade | Sword | 90 | 3 | Cryo Traveler | Enka |
+| Skyward Pride | Claymore | 73 | 1 | Razor | Enka |
+| Lost Prayer to the Sacred Winds | Catalyst | 40 | 1 | Nahida | Enka |
+| Lost Prayer to the Sacred Winds | Catalyst | 20 | 1 | Barbara | Owner |
+| Amos' Bow | Bow | 1 | 1 | – | Owner (new) |
 
-## 4★ equipped (page 1 unless noted)
+## 4★ equipped (22)
 
-| # | Weapon | Type | Lv | R | Holder | Status |
-|---|---|---|---|---|---|---|
-| 6 | Sacrificial Fragments | Catalyst | 80 | 2 | Sucrose | Owner says |
-| 7 | Favonius Lance | Polearm | 80 | 2 | Raiden Shogun | Confirmed |
-| 8 | Moonweaver's Dawn | Sword | 80 | 1 | Odette | Confirmed |
-| 9 | Favonius Sword | Sword | 80 | 2 | Furina | Confirmed |
-| 10 | Sword of Narzissenkreuz | Sword | 70 | 1 | Xingqiu | Confirmed |
-| 11 | Prototype Rancour | Sword | 70 | 2 | Kaeya | Confirmed (draft guessed a 2nd Narzissenkreuz) |
-| 12 | ? | Sword | 60 | 2 | ? | |
-| 13 | ? | Polearm | 50 | 5 | ? | Not Raiden's lance; possibly Xiangling (The Catch R5?) |
-| 14 | Favonius Warbow | Bow | 40 | 2 | Faruzan | Confirmed by Lv/R (draft read it as a sword) |
-| 15 | ? | Catalyst | 40 | 5 | ? | Not Nahida's Lost Prayer |
-| 16 | ? | Sword | 40 | 3 | ? | |
-| 17 | ? | Sword | 40 | 1 | ? | |
-| 18 | ? | Bow | 20 | 3 | ? | Not Faruzan's Warbow (that one is Lv 40) |
-| 20 | Prototype Amber | Catalyst | 20 | 1 | Neuvillette | Confirmed by Lv/R |
-| 22–24 | ? (3 weapons) | Sword | 20 | 1 | ? | |
-| 27 | ? | Catalyst | 12 | 1 | ? | |
-| 28 | ? | Catalyst | 11 | 2 | ? | |
-| p2 10/16/17 | New Bough + 2 × ? | Sword | 1 | 1 | Vesna + 2 × ? | New Bough confirmed on Vesna (Lv 1 R1) |
+| Weapon | Type | Lv | R | Holder | Status |
+|---|---|---|---|---|---|
+| Sacrificial Fragments | Catalyst | 80 | 2 | Sucrose | Owner |
+| Favonius Lance | Polearm | 80 | 2 | Raiden Shogun | Enka |
+| Moonweaver's Dawn | Sword | 80 | 1 | Odette | Enka |
+| Favonius Sword | Sword | 80 | 2 | Furina | Enka |
+| Sword of Narzissenkreuz | Sword | 70 | 1 | Xingqiu | Enka |
+| Prototype Rancour | Sword | 70 | 2 | Kaeya | Enka |
+| Favonius Greatsword | Claymore | 60 | 2 | ? | Icon? |
+| Dragon's Bane | Polearm | 50 | 5 | ? (likely Xiangling) | Icon? |
+| Favonius Warbow | Bow | 40 | 2 | Faruzan | Enka |
+| "Ultimate Overlord's Mega Magic Sword" | Claymore | 40 | 5 | ? | Icon? |
+| Rainslasher | Claymore | 40 | 3 | ? | Icon? |
+| Sword of Descension | Sword | 40 | 1 | ? | Icon? |
+| The Stringless | Bow | 20 | 3 | ? (green hair – Collei?) | Icon |
+| Prototype Amber | Catalyst | 20 | 1 | Neuvillette | Enka |
+| ? | ? | 20 | 1 | ? | |
+| Prototype Archaic | Claymore | 20 | 1 | ? | Icon? |
+| Rainslasher | Claymore | 20 | 1 | Diluc? | Icon? |
+| Sacrificial Bow | Bow | 14 | 1 | ? | Icon |
+| ? | ? | 12 | 1 | ? | |
+| Eye of Perception | Catalyst | 11 | 2 | ? | Icon |
+| Dragon's Bane | Polearm | 1 | 1 | ? | Icon |
+| New Bough | Sword | 1 | 1 | Vesna | Enka |
 
-## 4★ unused (candidates for upgrades)
+## 4★ unused (22)
 
-| # | Type | Lv | R | Name |
+| Weapon | Type | Lv | R | Status |
 |---|---|---|---|---|
-| p1 19, 21 | Catalyst | 20 | 1 / 4 | ? |
-| p1 25 | Sword | 20 | 1 | ? |
-| p1 26 | Bow | 14 | 1 | ? |
-| p1 29, 30 | Bow | 1 | 1 | ? |
-| p2 1–4 | Bow ×4 | 1 | 1 | ? |
-| p2 5 | ? | 1 | 1 | ? (new) |
-| p2 6–9, 12 | Catalyst ×5 | 1 | 1–2 | ? |
-| p2 11, 13–15, 18, 19 | Sword ×6 | 1–2 | 1–2 | ? |
+| Mappa Mare | Catalyst | 20 | 1 | Icon |
+| Favonius Codex | Catalyst | 20 | 4 | Icon? |
+| ? | Sword | 20 | 1 | |
+| ? | Bow | 1 | 1 | (new) |
+| Rust ×2 | Bow | 1 | 1 | Icon |
+| Sacrificial Bow ×3 | Bow | 1 | 1 | Icon |
+| The Stringless | Bow | 1 | 1 | Icon (new) |
+| Ballad of the Boundless Blue | Catalyst | 1 | 1 | Icon |
+| Wine and Song | Catalyst | 1 | 1 | Icon |
+| Sacrificial Fragments | Catalyst | 1 | 1 | Icon (new) |
+| Dialogues of the Desert Sages | Polearm | 1 | 1 | Icon |
+| Prototype Archaic | Claymore | 1 | 1 | Icon |
+| Sacrificial Greatsword ×2 | Claymore | 1 | 2 / 1 | Icon |
+| The Bell | Claymore | 1 | 2 | Icon |
+| Favonius Greatsword | Claymore | 1 | 1 | Icon |
+| Kagotsurube Isshin | Sword | 1 | 1 | Icon |
+| The Flute | Sword | 1 | 1 | Icon |
+| Favonius Sword | Sword | 1 | 1 | Icon |
 
-## 3★ (page 2 from #20, partial)
+## 3★ (first 11)
 
-| # | Weapon | Type | Lv | R | Holder | Status |
-|---|---|---|---|---|---|---|
-| 20 | ? | Sword | 57 | 5 | ? | |
-| 21 | ? | Catalyst | 53 | 5 | ? | |
-| 22 | ? | Bow | 40 | 5 | – | |
-| 23 | Thrilling Tales of Dragon Slayers | Catalyst | 40 | 5 | Yanfei | Confirmed |
-| 24 | Skyrider Greatsword | Claymore | 40 | 2 | Noelle | Confirmed (draft read it as a sword) |
-| 25, 26 | ? | Sword | 40 | 4 / 5 | – | |
-| 27 | ? | Polearm | 21 | 5 | – | |
-| 28 | Emerald Orb | Catalyst | 20 | 1 | Lisa | Confirmed |
-| 29 | ? | Catalyst | 20 | 3 | ? | |
-| 30 | ? | Catalyst | 20 | 1 | – | |
+| Weapon | Type | Lv | R | Holder | Status |
+|---|---|---|---|---|---|
+| Bloodtainted Greatsword | Claymore | 57 | 5 | ? (blonde) | Icon |
+| Emerald Orb | Catalyst | 53 | 5 | – | Icon |
+| Recurve Bow | Bow | 40 | 5 | – | Icon |
+| Thrilling Tales of Dragon Slayers | Catalyst | 40 | 5 | Yanfei | Enka |
+| Skyrider Greatsword | Claymore | 40 | 2 | Noelle | Enka |
+| Traveler's Handy Sword | Sword | 40 | 4 | – | Icon |
+| Cool Steel | Sword | 40 | 5 | – | Icon |
+| Debate Club | Claymore | 21 | 5 | ? (pink hair) | Icon |
+| Emerald Orb | Catalyst | 20 | 1 | Lisa | Enka |
+| Otherworldly Story | Catalyst | 20 | 3 | – | Icon |
+| Magic Guide | Catalyst | 20 | 1 | – | Icon |
 
-Not on these two pages: Bennett's Skyrider Sword (3★ Lv 20 R5), Fischl's and Amber's Hunter's Bow (1★).
+Not on these pages: Bennett's Skyrider Sword (3★ Lv 20 R5), Fischl's and Amber's Hunter's Bow (1★).
 
-## Still needed
-Names of the unused 4★ weapons – especially the **6 unused swords** and **5 unused catalysts** at Lv 1.
-Those decide the weapon fixes for Xingqiu, Vesna, Neuvillette and Bennett. Tapping one in-game shows
-the name; a screenshot of each detail panel (or just a list of names) is enough.
+## Still unknown
+Four 4★ weapons (sword Lv 20 R1 unused, bow Lv 1 new unused, two equipped at Lv 20 and Lv 12)
+and most holder portraits. Holders fill in as characters go through the Enka showcase.
