@@ -16,15 +16,22 @@ Stand: 25.09.2026 · Source: Enka API snapshot
 Ordered by impact per resin, for story + exploration play. Weapons come from `weapons.md` (unused unless noted).
 Cheap = only swaps/Mora/ore · Resin = needs domain/boss farming.
 
-1. [ ] **Neuvillette → Lv 90 + main stats** – ascend (boss mats), swap goblet ATK% → Hydro DMG and circlet ATK% → CRIT. Resin
-2. [ ] **Neuvillette weapon** – Prototype Amber (Lv 20) → Ballad of the Boundless Blue, level to 80+. Cheap
-3. [ ] **Nahida** – level Lost Prayer 40 → 80+, swap main stats to EM (sands/goblet/circlet; currently ATK%/Electro/HP%). Cheap if EM pieces exist
-4. [ ] **Raiden main stats** – sands EM → ER% or ATK%, goblet ATK% → Electro DMG; level flower/plume. Cheap if pieces exist
-5. [ ] **Bennett weapon** – Skyrider Sword (Lv 20) → The Flute (or Kagotsurube Isshin), level to 80+. Burst buff scales on base ATK. Cheap
-6. [ ] **Xingqiu** – Narzissenkreuz → Favonius Sword (spare), level to 80+; fix mains (ATK%/ER% sands, Hydro goblet, CRIT circlet); Burst talent 5 → 8. Cheap + talent books
-7. [ ] **Faruzan → Lv 80** – ascend (Lv 60 cap), ER% sands, level her VV pieces. Resin
-8. [ ] **Vesna → Lv 80** – ascend (Lv 50 cap), Skill talent 2 → 6+, level New Bough. Big resin cost – do it only if you enjoy playing her
-9. [ ] **Weapons 80 → 90** – Furina (Favonius Sword), Odette (Moonweaver's Dawn), Raiden (Favonius Lance). Cheap
+Rule of thumb – what matters most, in order:
+1. Character level + **weapon level for ATK scalers** (cheap, guaranteed gain; base ATK is what ATK% multiplies)
+2. Artifact **main stats + set** (right sands/goblet/circlet, levelled to +16/+20)
+3. The **one key talent** of each damage dealer to ~8
+4. Artifact substats – endless RNG, lowest priority for this play style
+Weapon level matters little for HP scalers (Neuvillette, Furina) and EM scalers (Nahida's EM builds) – for them artifacts and talents come first.
+
+1. [ ] **Neuvillette → Lv 90 + main stats** – ascend (boss mats), swap goblet ATK% → Hydro DMG and circlet ATK% → CRIT, then level his 4★/+0 pieces. Resin
+2. [ ] **Nahida** – swap main stats to EM (sands/goblet/circlet; currently ATK%/Electro/HP%), level Lost Prayer 40 → 80+ (its CRIT Rate substat grows with level). Cheap if EM pieces exist
+3. [ ] **Raiden main stats** – sands EM → ER% or ATK%, goblet ATK% → Electro DMG; level flower/plume. Cheap if pieces exist
+4. [ ] **Bennett weapon** – Skyrider Sword (Lv 20) → The Flute (or Kagotsurube Isshin), level to 80+. His burst buff = % of base ATK, so this roughly doubles the team buff. Cheap
+5. [ ] **Xingqiu** – Narzissenkreuz → Favonius Sword (spare), level to 80+; fix mains (ATK%/ER% sands, Hydro goblet, CRIT circlet); Burst talent 5 → 8. Cheap + talent books
+6. [ ] **Faruzan → Lv 80** – ascend (Lv 60 cap), ER% sands, level her VV pieces. Resin
+7. [ ] **Vesna → Lv 80** – ascend (Lv 50 cap), Skill talent 2 → 6+, level New Bough. Big resin cost – do it only if you enjoy playing her
+8. [ ] **Neuvillette weapon** – Ballad of the Boundless Blue instead of Prototype Amber; small gain since he scales on HP. Cheap
+9. [ ] **Raiden weapon 80 → 90** (ATK scaler); Furina/Odette 80 → 90 only when spare Mora/ore. Cheap
 10. [ ] **Showcase Sucrose, Diona, Xiangling** and refresh – last main-team members without data. Free
 
 ## Akasha rankings (25.09.2026)
