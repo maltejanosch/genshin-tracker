@@ -234,9 +234,9 @@ Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29
 | Rosaria Lv 20 C2 | Beginner's Protector 1★ Lv 1 | 1 / 1 / 1 | 5pc Traveling Doctor (filler) |
 | Diluc Lv 1 C1 | Rainslasher Lv 20 R1 | 1 / 1 / 1 | none |
 | Freminet Lv 1 C5 | Prototype Archaic Lv 20 R1 | 1 (+3) / 1 (+3) / 1 | 1–3★ filler |
-| Charlotte, Layla, Candace, Kujou Sara, Chongyun, Gorou (all Lv 1) | 1★ starter weapons | 1 / 1 / 1 | none |
+| Mona, Charlotte, Layla, Candace, Kujou Sara, Chongyun, Gorou (all Lv 1) | 1★ starter weapons | 1 / 1 / 1 | none |
 
 ## Not checked yet
 No weapon/artifact/talent data yet (Enka only sees the in-game showcase).
 Put these in the showcase in batches, then refresh:
-- Mona (Lv 1) – everyone else has been through the showcase (25.09.2026)
+- Nobody – every owned character has been through the showcase (25.09.2026)

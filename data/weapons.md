@@ -93,7 +93,7 @@ Not on these pages: Bennett's Skyrider Sword (3★ Lv 20 R5), Jean's Skyrider Sw
 Yaoyao's Black Tassel (3★ Lv 20 R5), Lyney's Slingshot (3★ Lv 1 R2),
 1★ starter weapons on the rest: Hunter's Bow (Fischl, Amber, Tighnari, Jahoda, Kujou Sara, Gorou),
 Dull Blade (Kuki Shinobu, Kirara, Manekina, Qiqi, Layla), Beginner's Protector (Thoma, Rosaria, Candace),
-Apprentice's Notes (Charlotte), Waster Greatsword (Chongyun).
+Apprentice's Notes (Charlotte, Mona), Waster Greatsword (Chongyun).
 
 ## Still unknown
 One unused 4★ bow at Lv 1 (new) – one of several Lv 1 bows, name still open.

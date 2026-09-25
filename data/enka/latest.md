@@ -74,9 +74,14 @@ YakaMono · UID 762018318 · AR 57 · WL 8 · Abyss 10-3 (18★)
 ## Chongyun (Lv 1, C1)
 - Stats: HP 921 · ATK 42 · DEF 54 · EM 0 · CR 5.0% · CD 50.0% · ER 100.0%
 - Talents (NA / Skill / Burst): 1 / 1 / 1
-- Weapon: Claymore_Aniki 1★ Lv 1 R1
+- Weapon: Waster Greatsword 1★ Lv 1 R1
 
 ## Gorou (Lv 1, C0)
 - Stats: HP 802 · ATK 39 · DEF 54 · EM 0 · CR 5.0% · CD 50.0% · ER 100.0%
 - Talents (NA / Skill / Burst): 1 / 1 / 1
 - Weapon: Hunter's Bow 1★ Lv 1 R1
+
+## Mona (Lv 1, C1)
+- Stats: HP 810 · ATK 46 · DEF 51 · EM 0 · CR 5.0% · CD 50.0% · ER 100.0%
+- Talents (NA / Skill / Burst): 1 / 1 / 1
+- Weapon: Apprentice's Notes 1★ Lv 1 R1
