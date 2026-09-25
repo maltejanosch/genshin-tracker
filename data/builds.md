@@ -12,6 +12,21 @@ Stand: 25.09.2026 · Source: Enka API snapshot
   → Advice should favour cheap, high-impact fixes (main stats, weapon levels, key talents) over deep artifact farming.
 - Endgame (Abyss 11–12 etc.) is optional, not the main goal
 
+## Top 10 – next steps (25.09.2026)
+Ordered by impact per resin, for story + exploration play. Weapons come from `weapons.md` (unused unless noted).
+Cheap = only swaps/Mora/ore · Resin = needs domain/boss farming.
+
+1. [ ] **Neuvillette → Lv 90 + main stats** – ascend (boss mats), swap goblet ATK% → Hydro DMG and circlet ATK% → CRIT. Resin
+2. [ ] **Neuvillette weapon** – Prototype Amber (Lv 20) → Ballad of the Boundless Blue, level to 80+. Cheap
+3. [ ] **Nahida** – level Lost Prayer 40 → 80+, swap main stats to EM (sands/goblet/circlet; currently ATK%/Electro/HP%). Cheap if EM pieces exist
+4. [ ] **Raiden main stats** – sands EM → ER% or ATK%, goblet ATK% → Electro DMG; level flower/plume. Cheap if pieces exist
+5. [ ] **Bennett weapon** – Skyrider Sword (Lv 20) → The Flute (or Kagotsurube Isshin), level to 80+. Burst buff scales on base ATK. Cheap
+6. [ ] **Xingqiu** – Narzissenkreuz → Favonius Sword (spare), level to 80+; fix mains (ATK%/ER% sands, Hydro goblet, CRIT circlet); Burst talent 5 → 8. Cheap + talent books
+7. [ ] **Faruzan → Lv 80** – ascend (Lv 60 cap), ER% sands, level her VV pieces. Resin
+8. [ ] **Vesna → Lv 80** – ascend (Lv 50 cap), Skill talent 2 → 6+, level New Bough. Big resin cost – do it only if you enjoy playing her
+9. [ ] **Weapons 80 → 90** – Furina (Favonius Sword), Odette (Moonweaver's Dawn), Raiden (Favonius Lance). Cheap
+10. [ ] **Showcase Sucrose, Diona, Xiangling** and refresh – last main-team members without data. Free
+
 ## Akasha rankings (25.09.2026)
 Source: https://akasha.cv/profile/762018318 – percentile among all players with that character on that leaderboard.
 Low ranks mostly come from unlevelled weapons and wrong main stats; re-check after fixing builds.
