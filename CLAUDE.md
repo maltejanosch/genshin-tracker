@@ -37,6 +37,7 @@ After editing `data/names.json`, re-render with `--file` instead of fetching aga
 ## Files
 - `data/roster.md` – every owned character with level and constellation (source: HoYoLAB screenshots). Written in German.
 - `data/builds.md` – curated build notes per character: current gear, what to fix, priorities
+- `data/weapons.md` – weapon inventory (screenshots, cross-checked with Enka); unused weapons = upgrade options
 - `data/teams.md` – planned teams, status, what's missing; header also records the game version
 - `data/enka/latest.md` – generated snapshot, do not hand-edit
 - `data/enka/raw-*.json` – raw Enka responses (history); one per day, a same-day rerun overwrites it
