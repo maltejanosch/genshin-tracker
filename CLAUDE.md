@@ -26,6 +26,10 @@ After editing `data/names.json`, re-render with `--file` instead of fetching aga
   - `"weapons"` keyed by the **full** icon name, including the `UI_EquipIcon_` prefix
     (latest.md shows it without the prefix, e.g. `Sword_Mitsurugi` → key `UI_EquipIcon_Sword_Mitsurugi`).
   - `"characters"` keyed by the numeric `avatarId` as a string.
+  - `"sets"` keyed by the artifact set ID (from the icon, e.g. `UI_RelicIcon_15020_4` → `15020`).
+    Unknown sets render as `Set <id>`.
+- The Enka store is often behind on new characters/weapons/sets; https://gi.yatta.moe/api/v2/en/weapon
+  and `/reliquary` resolve names by icon or set ID.
 - Traveler (avatarId 10000005/10000007) is named by element, derived from `fightPropMap`.
 
 ## Files

@@ -1,11 +1,27 @@
 {
-  "characters": {},
+  "characters": {
+    "10000150": "Odette",
+    "10000143": "Vesna"
+  },
   "weapons": {
     "UI_EquipIcon_Sword_Mitsurugi": "Skyrider Sword",
     "UI_EquipIcon_Claymore_Mitsurugi": "Skyrider Greatsword",
     "UI_EquipIcon_Claymore_Dvalin": "Skyward Pride",
     "UI_EquipIcon_Sword_Proto": "Prototype Rancour",
     "UI_EquipIcon_Sword_WeaponQuestSnezhnaya": "Exaiphanes Blade",
-    "UI_EquipIcon_Catalyst_Pulpfic": "Thrilling Tales of Dragon Slayers"
+    "UI_EquipIcon_Catalyst_Pulpfic": "Thrilling Tales of Dragon Slayers",
+    "UI_EquipIcon_Sword_Purewill": "Sword of Narzissenkreuz",
+    "UI_EquipIcon_Sword_Miekka": "Moonweaver's Dawn",
+    "UI_EquipIcon_Sword_SpikedStake": "New Bough",
+    "UI_EquipIcon_Catalyst_Fourwinds": "Lost Prayer to the Sacred Winds"
+  },
+  "sets": {
+    "15020": "Emblem of Severed Fate",
+    "15025": "Deepwood Memories",
+    "15031": "Marechaussee Hunter",
+    "15002": "Viridescent Venerer",
+    "15009": "Prayers for Illumination",
+    "15047": "Scarlet Proof",
+    "15048": "Heart of the Furnace"
   }
 }

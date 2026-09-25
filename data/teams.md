@@ -1,6 +1,6 @@
 # Teams
 
-Stand: 24.09.2026 · Version 7.1
+Stand: 25.09.2026 · Version 7.1
 
 ## Team 1 – Vesna Stellar Swirl (main)
 Vesna · Odette · Faruzan (C6) · Cryo Traveler
@@ -13,7 +13,7 @@ Neuvillette · Furina · Sucrose · Diona
 - Neuvillette: HP% / Hydro / CRIT, Normal Attack talent first
 - Furina: HP% + ER, Golden Troupe, Skill + Burst
 - Sucrose: full EM, Viridescent Venerer
-- **Missing:** check Neuvillette ascension (Lv 80)
+- **Missing:** Neuvillette not yet ascended past Lv 80 · wrong goblet/circlet mains · weapon Lv 20
 
 ## Team 3 – Raiden National (Imaginarium Theater / backup)
 Raiden · Xiangling · Xingqiu · Bennett

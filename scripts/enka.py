@@ -128,7 +128,9 @@ def render(data, chars, loc, overrides):
                 lines.append(f"- Weapon: {item_name(flat, loc, overrides)} {flat['rankLevel']}★ "
                              f"Lv {w['level']} R{ref}")
             else:
-                s = loc.get(str(flat.get("setNameTextMapHash")), "?")
+                set_id = flat.get("icon", "").split("_")[2] if flat.get("icon", "").count("_") >= 3 else ""
+                s = overrides.get("sets", {}).get(set_id) \
+                    or loc.get(str(flat.get("setNameTextMapHash")), f"Set {set_id or '?'}")
                 sets[s] = sets.get(s, 0) + 1
                 main = flat["reliquaryMainstat"]
                 subs = ", ".join(fmt(x["appendPropId"], x["statValue"])
