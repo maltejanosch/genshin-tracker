@@ -1,6 +1,6 @@
 # Genshin Impact – Meine Charaktere
 
-Stand: 24.09.2026 · 50 Charaktere (inkl. Traveler) · Quelle: HoYoLAB-Screenshots
+Stand: 25.09.2026 · 51 Charaktere (inkl. Traveler) · Quelle: HoYoLAB-Screenshots, Tighnari aus Enka-Showcase
 
 | Charakter | Element | Level | Konst. |
 |---|---|---|---|
@@ -22,6 +22,7 @@ Stand: 24.09.2026 · 50 Charaktere (inkl. Traveler) · Quelle: HoYoLAB-Screensho
 | Faruzan | Anemo | 60 | C6 |
 | Diona | Cryo | 60 | C4 |
 | Kaeya | Cryo | 60 | C0 |
+| Tighnari | Dendro | 60 | C0 |
 | Barbara | Hydro | 60 | C3 |
 | Vesna | Anemo | 50 | C0 |
 | Alyosha | Electro | 50 | C2 |

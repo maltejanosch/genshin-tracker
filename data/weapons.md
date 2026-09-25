@@ -20,34 +20,34 @@ Holder `?` = portrait visible but character not identified yet.
 | Exaiphanes Blade | Sword | 90 | 3 | Cryo Traveler | Enka |
 | Skyward Pride | Claymore | 73 | 1 | Razor | Enka |
 | Lost Prayer to the Sacred Winds | Catalyst | 40 | 1 | Nahida | Enka |
-| Lost Prayer to the Sacred Winds | Catalyst | 20 | 1 | Barbara | Owner |
+| Lost Prayer to the Sacred Winds | Catalyst | 20 | 1 | Barbara | Enka |
 | Amos' Bow | Bow | 1 | 1 | – | Owner (new) |
 
 ## 4★ equipped (22)
 
 | Weapon | Type | Lv | R | Holder | Status |
 |---|---|---|---|---|---|
-| Sacrificial Fragments | Catalyst | 80 | 2 | Sucrose | Owner |
+| Sacrificial Fragments | Catalyst | 80 | 2 | Sucrose | Enka |
 | Favonius Lance | Polearm | 80 | 2 | Raiden Shogun | Enka |
 | Moonweaver's Dawn | Sword | 80 | 1 | Odette | Enka |
 | Favonius Sword | Sword | 80 | 2 | Furina | Enka |
 | Sword of Narzissenkreuz | Sword | 70 | 1 | Xingqiu | Enka |
 | Prototype Rancour | Sword | 70 | 2 | Kaeya | Enka |
-| Favonius Greatsword | Claymore | 60 | 2 | ? | Icon? |
-| Dragon's Bane | Polearm | 50 | 5 | ? (likely Xiangling) | Icon? |
+| Favonius Greatsword | Claymore | 60 | 2 | Beidou | Enka |
+| Dragon's Bane | Polearm | 50 | 5 | Xiangling | Enka |
 | Favonius Warbow | Bow | 40 | 2 | Faruzan | Enka |
-| "Ultimate Overlord's Mega Magic Sword" | Claymore | 40 | 5 | ? | Icon? |
+| "Ultimate Overlord's Mega Magic Sword" | Claymore | 40 | 5 | Gaming | Enka |
 | Rainslasher | Claymore | 40 | 3 | ? | Icon? |
-| Sword of Descension | Sword | 40 | 1 | ? | Icon? |
+| Sword of Descension | Sword | 40 | 1 | Lynette | Enka |
 | The Stringless | Bow | 20 | 3 | ? (green hair – Collei?) | Icon |
 | Prototype Amber | Catalyst | 20 | 1 | Neuvillette | Enka |
 | ? | ? | 20 | 1 | ? | |
 | Prototype Archaic | Claymore | 20 | 1 | ? | Icon? |
 | Rainslasher | Claymore | 20 | 1 | Diluc? | Icon? |
-| Sacrificial Bow | Bow | 14 | 1 | ? | Icon |
+| Sacrificial Bow | Bow | 14 | 1 | Diona | Enka |
 | ? | ? | 12 | 1 | ? | |
-| Eye of Perception | Catalyst | 11 | 2 | ? | Icon |
-| Dragon's Bane | Polearm | 1 | 1 | ? | Icon |
+| Eye of Perception | Catalyst | 11 | 2 | Ningguang | Enka |
+| Dragon's Bane | Polearm | 1 | 1 | Alyosha | Enka |
 | New Bough | Sword | 1 | 1 | Vesna | Enka |
 
 ## 4★ unused (22)
@@ -89,7 +89,8 @@ Holder `?` = portrait visible but character not identified yet.
 | Otherworldly Story | Catalyst | 20 | 3 | – | Icon |
 | Magic Guide | Catalyst | 20 | 1 | – | Icon |
 
-Not on these pages: Bennett's Skyrider Sword (3★ Lv 20 R5), Fischl's and Amber's Hunter's Bow (1★).
+Not on these pages: Bennett's Skyrider Sword (3★ Lv 20 R5), Yaoyao's Black Tassel (3★ Lv 20 R5),
+Fischl's, Amber's and Tighnari's Hunter's Bow (1★).
 
 ## Still unknown
 Four 4★ weapons (sword Lv 20 R1 unused, bow Lv 1 new unused, two equipped at Lv 20 and Lv 12)

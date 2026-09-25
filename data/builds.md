@@ -32,7 +32,7 @@ Weapon level matters little for HP scalers (Neuvillette, Furina) and EM scalers 
 7. [ ] **Vesna → Lv 80** – ascend (Lv 50 cap), Skill talent 2 → 6+, level New Bough. Big resin cost – do it only if you enjoy playing her
 8. [ ] **Neuvillette weapon** – Ballad of the Boundless Blue instead of Prototype Amber; small gain since he scales on HP. Cheap
 9. [ ] **Raiden weapon 80 → 90** (ATK scaler); Furina/Odette 80 → 90 only when spare Mora/ore. Cheap
-10. [ ] **Showcase Sucrose, Diona, Xiangling** and refresh – last main-team members without data. Free
+10. [ ] **Xiangling** – goblet DEF% → Pyro DMG, sands EM → ER% (she has only 120% ER, National wants ~180%+), level Dragon's Bane R5 50 → 80+ (EM substat). Cheap if pieces exist
 
 ## Akasha rankings (25.09.2026)
 Source: https://akasha.cv/profile/762018318 – percentile among all players with that character on that leaderboard.
@@ -166,17 +166,60 @@ Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29
 - Stats: ~1605 ATK · 49% CR / 63% CD · 141% ER
 - Not in main teams – no further investment planned
 
+## Sucrose (Lv 90, C4) – Team 2 / Team 1 swap
+- Weapon: Sacrificial Fragments 4★, Lv 80, R2
+- Artifacts: 2pc Viridescent Venerer + 3pc Wanderer's Troupe · Sands EM · Goblet EM · Circlet EM (4★)
+- Stats: 742 EM · 110% ER
+- Talents: NA 3 / Skill 7 (+3) / Burst 9
+- Well built (full EM). **To fix:**
+  - [ ] 4pc Viridescent Venerer instead of 2+3 – the 4pc resistance shred is her main team buff
+  - [ ] Weapon Lv 80 → 90 only when spare Mora/ore
+
+## Diona (Lv 60, C4) – Team 2 / Team 1 shield
+- Weapon: Sacrificial Bow 4★, **Lv 14**, R1
+- Artifacts: 4pc Noblesse Oblige (all 5★ **+0**) + 1 Wanderer's Troupe · Sands HP% · Goblet ATK% · Circlet CRIT Rate
+- Stats: ~9.6k HP · 120% ER
+- Talents: NA 1 / Skill 1 / Burst 1 (+3)
+- **To fix:**
+  - [ ] Ascend (phase 3, capped at Lv 60) → Lv 70–80 (shield and healing scale on her HP)
+  - [ ] Main stats: HP% or ER% sands / HP% goblet / HP% or Healing circlet; level the pieces
+  - [ ] Skill talent (shield) to ~6
+  - [ ] Weapon Lv 14 → 70+ (Favonius Warbow is on Faruzan; Sacrificial Bow is fine)
+
+## Xiangling (Lv 80, C3) – Team 3
+- Weapon: Dragon's Bane 4★, Lv 50, **R5**
+- Artifacts: 5pc Emblem of Severed Fate · Sands EM (+0) · Goblet **DEF%** (+0) · Circlet CRIT DMG (+20, 62.2%)
+- Stats: 304 EM · 5% CR / 112% CD · **120% ER**
+- Talents: NA 5 / Skill 8 / Burst 8 (+3)
+- **To fix:**
+  - [ ] Goblet: Pyro DMG instead of DEF%
+  - [ ] Sands: ER% (National wants ~180%+ ER on her), then level flower/plume/sands
+  - [ ] Weapon Lv 50 → 80+ (EM substat grows with level)
+  - [ ] More CRIT Rate from substats (5% with 112% CRIT DMG)
+
+## Beidou (Lv 90, C6)
+- Weapon: Favonius Greatsword 4★, Lv 60, R2
+- Artifacts: 5pc Emblem of Severed Fate · Sands ATK% · Goblet Electro · Circlet **DEF%**
+- Stats: ~1174 ATK · 34% CR / 56% CD · 195% ER · Talents 8 / 10 (+3) / 10 (+3)
+- Not in a planned team, but well built – possible Team 3 alternative. Easy wins: CRIT circlet, weapon Lv 60 → 80
+
 ## Side characters (showcase 25.09.2026, low priority)
 | Character | Weapon | Talents (NA/Skill/Burst) | Artifacts |
 |---|---|---|---|
-| Kaeya Lv 60 C0 | Prototype Rancour Lv 70 R2 | 1 / 1 / 4 | mixed 3–4★, 2pc The Exile |
+| Kaeya Lv 60 C0 | Prototype Rancour Lv 70 R2 | 1 / 1 / 4 | 3pc Blizzard Strayer + 2pc The Exile, mostly 3–4★ |
 | Yanfei Lv 50 C1 | Thrilling Tales of Dragon Slayers Lv 40 R5 | 1 / 1 / 1 | mixed 3–4★ |
 | Lisa Lv 40 C1 | Emerald Orb Lv 20 R1 | 1 / 1 / 1 | 1–3★ filler |
 | Noelle Lv 20 C4 | Skyrider Greatsword Lv 40 R2 | 1 / 1 (+3) / 1 | 2–3★ filler |
 | Amber Lv 20 C1 | Hunter's Bow Lv 1 R1 | 1 / 1 / 1 | none |
+| Yaoyao Lv 70 C0 | Black Tassel 3★ Lv 20 R5 | 4 / 6 / 6 | mixed 1pc sets; ATK% sands, EM goblet, Healing circlet |
+| Gaming Lv 60 C1 | "Ultimate Overlord's Mega Magic Sword" Lv 40 R5 | 1 / 1 / 1 | 4pc Gladiator's Finale; DEF% sands, **Electro** goblet (should be Pyro) |
+| Barbara Lv 60 C3 | Lost Prayer to the Sacred Winds 5★ Lv 20 R1 | 1 / 1 / 1 (+3) | 3pc Maiden Beloved, mostly +0; Pyro goblet |
+| Tighnari Lv 60 C0 | Hunter's Bow Lv 1 R1 | 1 / 1 / 1 | none |
+| Ningguang Lv 50 C2 | Eye of Perception Lv 11 R2 | 4 / 4 / 4 | 2pc Archaic Petra + 2pc Gladiator's; HP%/DEF%/DEF% mains |
+| Lynette Lv 50 C4 | Sword of Descension Lv 40 R1 | 1 / 1 / 1 (+3) | 1–4★ filler |
+| Alyosha Lv 50 C2 | Dragon's Bane Lv 1 R1 | 1 / 1 / 1 | mixed 4–5★, mostly +0; ER% sands |
 
 ## Not checked yet
 No weapon/artifact/talent data yet (Enka only sees the in-game showcase).
 Put these in the showcase in batches, then refresh:
-- **Priority (main teams):** Sucrose, Diona, Xiangling
-- **Rest:** Beidou, Yaoyao, Gaming, Barbara, Alyosha, Ororon, Lynette, Kaveh, Collei, Kuki Shinobu, Ningguang, Aino, Kachina, Kirara, Manekina, Lyney, Qiqi, Jean, Jahoda, Thoma, Rosaria, Mona, Diluc, Charlotte, Freminet, Layla, Candace, Kujou Sara, Gorou, Chongyun
+- Kaveh, Collei, Kuki Shinobu, Ororon, Aino, Kachina, Kirara, Manekina, Lyney, Qiqi, Jean, Jahoda, Thoma, Rosaria, Mona, Diluc, Charlotte, Freminet, Layla, Candace, Kujou Sara, Gorou, Chongyun
