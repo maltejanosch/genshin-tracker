@@ -48,6 +48,5 @@ After editing `data/names.json`, re-render with `--file` instead of fetching aga
 ## Conventions
 - Update the "Stand" date at the top of any file you change (format `DD.MM.YYYY`).
 - Keep each file in its existing language (roster German, builds/teams English).
-- Commit after every update with a short message (e.g. `builds: Bennett weapon Lv 90`) and push
-  (skip the push if no remote is configured).
+- Commit after every update with a short message (e.g. `builds: Bennett weapon Lv 90`) and push.
 - Reply to Malte in the language he writes in.
