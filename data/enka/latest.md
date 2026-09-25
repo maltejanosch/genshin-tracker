@@ -102,15 +102,15 @@ YakaMono · UID 762018318 · AR 57 · WL 8 · Abyss 10-3 (18★)
   - Circlet 4★ +16: CR% 23.2 | ATK 28, ER% 5.2, HP% 8.4, HP 167
 
 ## Xingqiu (Lv 80, C3)
-- Stats: HP 12004 · ATK 416 · DEF 892 · EM 146 · CR 7.8% · CD 59.3% · ER 156.4% · Hydro 20.0%, Dendro 7.0%
-- Talents (NA / Skill / Burst): 1 / 4 / 5 (+3)
-- Weapon: Favonius Sword 4★ Lv 1 R1
+- Stats: HP 11159 · ATK 1076 · DEF 800 · EM 47 · CR 17.1% · CD 93.7% · ER 197.0% · Hydro 42.8%
+- Talents (NA / Skill / Burst): 1 / 6 / 6 (+3)
+- Weapon: Favonius Sword 4★ Lv 80 R1
 - Artifacts: 4pc Emblem of Severed Fate, 1pc Noblesse Oblige
   - Flower 5★ +0: HP 717 | EM 23, ATK 19, HP% 4.7
   - Plume 4★ +8: ATK 137 | DEF 13, DEF% 5.8, CR% 2.8, ER% 3.6
-  - Sands 5★ +12: EM 123 | HP 269, ER% 13, DEF% 5.1, HP% 9.9
-  - Goblet 5★ +0: Dendro DMG% 7 | DEF 19, HP 269, DEF% 7.3, ER% 6.5
-  - Circlet 5★ +0: CD% 9.3 | DEF 23, HP% 4.1, DEF% 6.6
+  - Sands 5★ +8: ATK% 22.8 | HP 239, CR% 9.3, EM 23, ATK 19
+  - Goblet 5★ +8: Hydro DMG% 22.8 | HP 299, ER% 6.5, ATK% 9.3, HP% 4.7
+  - Circlet 5★ +13: CD% 43.7 | DEF% 5.8, ER% 11, ATK% 5.3, DEF 37
 
 ## Xiangling (Lv 80, C3)
 - Stats: HP 11124 · ATK 582 · DEF 889 · EM 304 · CR 5.0% · CD 112.2% · ER 120.0%
@@ -124,9 +124,9 @@ YakaMono · UID 762018318 · AR 57 · WL 8 · Abyss 10-3 (18★)
   - Circlet 5★ +20: CD% 62.2 | DEF 35, ATK 29, DEF% 18.2, EM 42
 
 ## Bennett (Lv 90, C4)
-- Stats: HP 24837 · ATK 588 · DEF 1182 · EM 77 · CR 20.3% · CD 67.1% · ER 157.4% · Pyro 46.6%
+- Stats: HP 24837 · ATK 1069 · DEF 1182 · EM 77 · CR 20.3% · CD 67.1% · ER 157.4% · Pyro 46.6%
 - Talents (NA / Skill / Burst): 8 / 9 (+3) / 10
-- Weapon: Kagotsurube Isshin 4★ Lv 1 R1
+- Weapon: Kagotsurube Isshin 4★ Lv 60 R1
 - Artifacts: 4pc Noblesse Oblige, 1pc Crimson Witch of Flames
   - Flower 5★ +20: HP 4780 | EM 21, CD% 11.7, ER% 15.5, DEF 37
   - Plume 4★ +16: ATK 232 | ER% 4.1, CR% 2.5, HP 359, DEF% 9.9

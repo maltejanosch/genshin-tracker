@@ -48,7 +48,7 @@ Holder `?` = portrait visible but character not identified yet.
 | Dragon's Bane | Polearm | 1 | 1 | Alyosha | Enka |
 | New Bough | Sword | 1 | 1 | Vesna | Enka |
 | Kagotsurube Isshin | Sword | 60 | 1 | Bennett | Owner |
-| Favonius Sword | Sword | 80 | 1 | Xingqiu | Owner |
+| Favonius Sword | Sword | 80 | 1 | Xingqiu | Enka |
 
 ## 4★ unused (22)
 
