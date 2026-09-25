@@ -24,7 +24,7 @@ Rule of thumb – what matters most, in order:
 Weapon level matters little for HP scalers (Neuvillette, Furina) and EM scalers (Nahida's EM builds) – for them artifacts and talents come first.
 
 1. [ ] **Neuvillette → Lv 90 + main stats** – ascend (boss mats), swap goblet ATK% → Hydro DMG and circlet ATK% → CRIT, then level his 4★/+0 pieces. Resin
-2. [ ] **Nahida** – swap main stats to EM (sands/goblet/circlet; currently ATK%/Electro/HP%), level Lost Prayer 40 → 80+ (its CRIT Rate substat grows with level). Cheap if EM pieces exist
+2. [ ] **Nahida** – ~~EM sands/goblet/circlet~~ done 25.09.2026; still level Lost Prayer 40 → 80+ (its CRIT Rate substat grows with level). Cheap if EM pieces exist
 3. [ ] **Raiden main stats** – sands EM → ER% or ATK%, goblet ATK% → Electro DMG; level flower/plume. Cheap if pieces exist
 4. [ ] **Bennett weapon** – Kagotsurube Isshin **Lv 60** (weapon base ATK 353, 30.4% ATK; 25.09.2026) – already stronger than the old Skyrider Sword; finish 60 → 80+. His burst buff = % of base ATK. Cheap
 5. [x] **Xingqiu** – Favonius Sword Lv 80, ATK%/Hydro/CRIT DMG mains, Skill 6 / Burst 8 (+3) – done 25.09.2026. Leftovers (artifact levels) are in his section
@@ -130,11 +130,12 @@ Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29
 
 ## Nahida (Lv 90, C0)
 - Weapon: Lost Prayer to the Sacred Winds 5★, **Lv 40**
-- Artifacts: 5pc Deepwood Memories · Sands ATK% · Goblet Electro DMG · Circlet HP%
-- Stats: 170 EM · 24% CR / 50% CD · 128% ER
+- Artifacts: Sands EM · Goblet EM · Circlet EM (swapped 25.09.2026, reported by Malte – set, levels and new EM total not checked yet; was 5pc Deepwood with ATK%/Electro/HP%)
+- Stats (before swap): 170 EM · 24% CR / 50% CD · 128% ER
 - Talents: NA 6 / Skill 8 / Burst 7
 - **To fix:**
-  - [ ] Main stats: EM sands / EM or Dendro goblet / EM or CRIT circlet – none are right now
+  - [x] Main stats: EM sands / EM goblet / EM circlet (25.09.2026)
+  - [ ] Check that 4pc Deepwood Memories is still active (the Dendro RES shred helps the whole team)
   - [ ] Weapon Lv 40 → 90
   - [ ] Burst talent
 
