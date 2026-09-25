@@ -23,7 +23,7 @@ Holder `?` = portrait visible but character not identified yet.
 | Lost Prayer to the Sacred Winds | Catalyst | 20 | 1 | Barbara | Enka |
 | Amos' Bow | Bow | 1 | 1 | – | Owner (new) |
 
-## 4★ equipped (21)
+## 4★ equipped (22)
 
 | Weapon | Type | Lv | R | Holder | Status |
 |---|---|---|---|---|---|
@@ -31,7 +31,6 @@ Holder `?` = portrait visible but character not identified yet.
 | Favonius Lance | Polearm | 80 | 2 | Raiden Shogun | Enka |
 | Moonweaver's Dawn | Sword | 80 | 1 | Odette | Enka |
 | Favonius Sword | Sword | 80 | 2 | Furina | Enka |
-| Sword of Narzissenkreuz | Sword | 70 | 1 | Xingqiu | Enka |
 | Prototype Rancour | Sword | 70 | 2 | Kaeya | Enka |
 | Favonius Greatsword | Claymore | 60 | 2 | Beidou | Enka |
 | Dragon's Bane | Polearm | 50 | 5 | Xiangling | Enka |
@@ -39,7 +38,7 @@ Holder `?` = portrait visible but character not identified yet.
 | "Ultimate Overlord's Mega Magic Sword" | Claymore | 40 | 5 | Gaming | Enka |
 | Sword of Descension | Sword | 40 | 1 | Lynette | Enka |
 | The Stringless | Bow | 20 | 3 | Collei | Enka |
-| Prototype Amber | Catalyst | 20 | 1 | Neuvillette | Enka |
+| Ballad of the Boundless Blue | Catalyst | 20 | 1 | Neuvillette | Enka |
 | Dragon's Bane | Polearm | 20 | 1 | Kachina | Enka |
 | Prototype Archaic | Claymore | 20 | 1 | Freminet | Enka |
 | Rainslasher | Claymore | 20 | 1 | Diluc | Enka |
@@ -48,8 +47,10 @@ Holder `?` = portrait visible but character not identified yet.
 | Eye of Perception | Catalyst | 11 | 2 | Ningguang | Enka |
 | Dragon's Bane | Polearm | 1 | 1 | Alyosha | Enka |
 | New Bough | Sword | 1 | 1 | Vesna | Enka |
+| Kagotsurube Isshin | Sword | 1 | 1 | Bennett | Enka |
+| Favonius Sword | Sword | 1 | 1 | Xingqiu | Enka |
 
-## 4★ unused (23)
+## 4★ unused (22)
 
 | Weapon | Type | Lv | R | Status |
 |---|---|---|---|---|
@@ -61,7 +62,8 @@ Holder `?` = portrait visible but character not identified yet.
 | Rust ×2 | Bow | 1 | 1 | Icon |
 | Sacrificial Bow ×3 | Bow | 1 | 1 | Icon |
 | The Stringless | Bow | 1 | 1 | Icon (new) |
-| Ballad of the Boundless Blue | Catalyst | 1 | 1 | Icon |
+| Sword of Narzissenkreuz | Sword | 70 | 1 | Enka (was Xingqiu's) |
+| Prototype Amber | Catalyst | 20 | 1 | Enka (was Neuvillette's) |
 | Wine and Song | Catalyst | 1 | 1 | Icon |
 | Sacrificial Fragments | Catalyst | 1 | 1 | Icon (new) |
 | Dialogues of the Desert Sages | Polearm | 1 | 1 | Icon |
@@ -69,9 +71,7 @@ Holder `?` = portrait visible but character not identified yet.
 | Sacrificial Greatsword ×2 | Claymore | 1 | 2 / 1 | Icon |
 | The Bell | Claymore | 1 | 2 | Icon |
 | Favonius Greatsword | Claymore | 1 | 1 | Icon |
-| Kagotsurube Isshin | Sword | 1 | 1 | Icon |
 | The Flute | Sword | 1 | 1 | Icon |
-| Favonius Sword | Sword | 1 | 1 | Icon |
 
 ## 3★ (first 11)
 
@@ -89,7 +89,7 @@ Holder `?` = portrait visible but character not identified yet.
 | Otherworldly Story | Catalyst | 20 | 3 | – | Icon |
 | Magic Guide | Catalyst | 20 | 1 | – | Icon |
 
-Not on these pages: Bennett's Skyrider Sword (3★ Lv 20 R5), Jean's Skyrider Sword (3★ Lv 20 R3),
+Not on these pages: Skyrider Sword (3★ Lv 20 R5, unused since 25.09.2026 – was Bennett's), Jean's Skyrider Sword (3★ Lv 20 R3),
 Yaoyao's Black Tassel (3★ Lv 20 R5), Lyney's Slingshot (3★ Lv 1 R2),
 1★ starter weapons on the rest: Hunter's Bow (Fischl, Amber, Tighnari, Jahoda, Kujou Sara, Gorou),
 Dull Blade (Kuki Shinobu, Kirara, Manekina, Qiqi, Layla), Beginner's Protector (Thoma, Rosaria, Candace),

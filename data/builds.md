@@ -26,11 +26,11 @@ Weapon level matters little for HP scalers (Neuvillette, Furina) and EM scalers 
 1. [ ] **Neuvillette → Lv 90 + main stats** – ascend (boss mats), swap goblet ATK% → Hydro DMG and circlet ATK% → CRIT, then level his 4★/+0 pieces. Resin
 2. [ ] **Nahida** – swap main stats to EM (sands/goblet/circlet; currently ATK%/Electro/HP%), level Lost Prayer 40 → 80+ (its CRIT Rate substat grows with level). Cheap if EM pieces exist
 3. [ ] **Raiden main stats** – sands EM → ER% or ATK%, goblet ATK% → Electro DMG; level flower/plume. Cheap if pieces exist
-4. [ ] **Bennett weapon** – Skyrider Sword (Lv 20) → The Flute (or Kagotsurube Isshin), level to 80+. His burst buff = % of base ATK, so this roughly doubles the team buff. Cheap
-5. [ ] **Xingqiu** – Narzissenkreuz → Favonius Sword (spare), level to 80+; fix mains (ATK%/ER% sands, Hydro goblet, CRIT circlet); Burst talent 5 → 8. Cheap + talent books
+4. [ ] **Bennett weapon** – Kagotsurube Isshin equipped (25.09.2026), now **level it 1 → 80+**. Until then his burst buff is *weaker* than before (base ATK 619 → 588). His burst buff = % of base ATK. Cheap
+5. [ ] **Xingqiu** – Favonius Sword equipped (25.09.2026), now **level it 1 → 80+**; fix mains (ATK%/ER% sands, Hydro goblet, CRIT circlet); Burst talent 5 → 8. Cheap + talent books
 6. [ ] **Faruzan → Lv 80** – ascend (Lv 60 cap), ER% sands, level her VV pieces. Resin
 7. [ ] **Vesna → Lv 80** – ascend (Lv 50 cap), Skill talent 2 → 6+, level New Bough. Big resin cost – do it only if you enjoy playing her
-8. [ ] **Neuvillette weapon** – Ballad of the Boundless Blue instead of Prototype Amber; small gain since he scales on HP. Cheap
+8. [ ] **Neuvillette weapon** – Ballad of the Boundless Blue equipped (Lv 20, 25.09.2026); level it to 80+. Small gain since he scales on HP. Cheap
 9. [ ] **Raiden weapon 80 → 90** (ATK scaler); Furina/Odette 80 → 90 only when spare Mora/ore. Cheap
 10. [ ] **Xiangling** – goblet DEF% → Pyro DMG, sands EM → ER% (she has only 120% ER, National wants ~180%+), level Dragon's Bane R5 50 → 80+ (EM substat). Cheap if pieces exist
 
@@ -85,9 +85,9 @@ Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29
   - [ ] Burst talent
 
 ## Neuvillette (Lv 80, C0) – Team 2 main DPS
-- Weapon: Prototype Amber 4★, **Lv 20**
+- Weapon: Ballad of the Boundless Blue 4★, **Lv 20** (swapped from Prototype Amber 25.09.2026)
 - Artifacts: 5pc Marechaussee Hunter, mostly 4★ +0 · Sands HP% · Goblet ATK% · Circlet ATK%
-- Stats: ~18.6k HP · 8% CR / 89% CD · 109% ER
+- Stats: ~16.5k HP · 8% CR / 89% CD · 121% ER
 - Talents: NA 8 / Skill 4 / Burst 6
 - **To fix:**
   - [ ] Ascend (phase 5, capped at Lv 80) → Lv 90
@@ -117,14 +117,14 @@ Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29
   - [ ] Weapon Lv 80 → 90
 
 ## Xingqiu (Lv 80, C3) – Team 3
-- Weapon: Sword of Narzissenkreuz 4★, Lv 70 (passive only works for Arkhe characters)
+- Weapon: Favonius Sword 4★, **Lv 1**, R1 (swapped from Sword of Narzissenkreuz 25.09.2026)
 - Artifacts: 4pc Emblem of Severed Fate (mostly +0) + 1 Noblesse · Sands EM · Goblet Dendro DMG · Circlet CRIT DMG (+0)
-- Stats: ~1018 ATK · 8% CR / 59% CD · 143% ER
+- Stats: ~416 ATK · 8% CR / 59% CD · 156% ER
 - Talents: NA 1 / Skill 4 / Burst 5 (+3)
 - **To fix:**
   - [ ] Main stats: ATK% or ER% sands / Hydro DMG goblet / CRIT circlet
   - [ ] Burst talent first
-  - [ ] Better weapon: an ER sword (Sacrificial / Favonius) or Skyrider Sword R5 for now
+  - [ ] Level Favonius Sword 1 → 80+
 
 ## Nahida (Lv 90, C0)
 - Weapon: Lost Prayer to the Sacred Winds 5★, **Lv 40**
@@ -152,12 +152,12 @@ Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29
   - [ ] Talents: Skill first, then Burst
 
 ## Bennett (Lv 90, C4)
-- Weapon: Skyrider Sword R5, **Lv 20**
+- Weapon: Kagotsurube Isshin 4★, **Lv 1**, R1 (swapped from Skyrider Sword 25.09.2026)
 - Artifacts: 4pc Noblesse Oblige · Sands DEF% · Goblet Pyro · Circlet HP%
-- Stats: ~24.8k HP · 177% ER
+- Stats: ~24.8k HP · 157% ER
 - Talents: NA 8 / Skill 9 (+3) / Burst 10
 - **To fix:**
-  - [ ] Level weapon to 90 (burst buff scales on base ATK) or use a higher base-ATK sword
+  - [ ] Level Kagotsurube Isshin 1 → 80+ (burst buff scales on base ATK)
   - [ ] Replace DEF% sands with ER% or HP%
 
 ## Razor (Lv 90, C0)
