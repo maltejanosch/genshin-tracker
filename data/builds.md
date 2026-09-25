@@ -230,8 +230,13 @@ Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29
 | Qiqi Lv 20 C0 | Dull Blade 1★ Lv 1 | 1 / 1 / 1 | none |
 | Jean Lv 20 C0 | Skyrider Sword 3★ Lv 20 R3 | 1 / 1 / 1 | 4pc Bloodstained Chivalry, all +0 |
 | Jahoda Lv 20 C0 | Hunter's Bow 1★ Lv 1 | 1 / 1 / 1 | mixed 4–5★; ATK% circlet +12 |
+| Thoma Lv 20 C1 | Beginner's Protector 1★ Lv 1 | 1 / 1 / 1 | 1–3★ filler |
+| Rosaria Lv 20 C2 | Beginner's Protector 1★ Lv 1 | 1 / 1 / 1 | 5pc Traveling Doctor (filler) |
+| Diluc Lv 1 C1 | Rainslasher Lv 20 R1 | 1 / 1 / 1 | none |
+| Freminet Lv 1 C5 | Prototype Archaic Lv 20 R1 | 1 (+3) / 1 (+3) / 1 | 1–3★ filler |
+| Charlotte, Layla, Candace, Kujou Sara, Chongyun, Gorou (all Lv 1) | 1★ starter weapons | 1 / 1 / 1 | none |
 
 ## Not checked yet
 No weapon/artifact/talent data yet (Enka only sees the in-game showcase).
 Put these in the showcase in batches, then refresh:
-- Thoma, Rosaria, Mona, Diluc, Charlotte, Freminet, Layla, Candace, Kujou Sara, Gorou, Chongyun
+- Mona (Lv 1) – everyone else has been through the showcase (25.09.2026)

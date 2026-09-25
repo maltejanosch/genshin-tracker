@@ -42,8 +42,8 @@ Holder `?` = portrait visible but character not identified yet.
 | The Stringless | Bow | 20 | 3 | Collei | Enka |
 | Prototype Amber | Catalyst | 20 | 1 | Neuvillette | Enka |
 | Dragon's Bane | Polearm | 20 | 1 | Kachina | Enka |
-| Prototype Archaic | Claymore | 20 | 1 | ? | Icon? |
-| Rainslasher | Claymore | 20 | 1 | Diluc? | Icon? |
+| Prototype Archaic | Claymore | 20 | 1 | Freminet | Enka |
+| Rainslasher | Claymore | 20 | 1 | Diluc | Enka |
 | Sacrificial Bow | Bow | 14 | 1 | Diona | Enka |
 | Favonius Warbow | Bow | 12 | 1 | Ororon | Enka |
 | Eye of Perception | Catalyst | 11 | 2 | Ningguang | Enka |
@@ -91,9 +91,11 @@ Holder `?` = portrait visible but character not identified yet.
 
 Not on these pages: Bennett's Skyrider Sword (3★ Lv 20 R5), Jean's Skyrider Sword (3★ Lv 20 R3),
 Yaoyao's Black Tassel (3★ Lv 20 R5), Lyney's Slingshot (3★ Lv 1 R2),
-Hunter's Bow (1★) on Fischl, Amber, Tighnari and Jahoda, Dull Blade (1★) on Kuki Shinobu, Kirara, Manekina and Qiqi.
+1★ starter weapons on the rest: Hunter's Bow (Fischl, Amber, Tighnari, Jahoda, Kujou Sara, Gorou),
+Dull Blade (Kuki Shinobu, Kirara, Manekina, Qiqi, Layla), Beginner's Protector (Thoma, Rosaria, Candace),
+Apprentice's Notes (Charlotte), Waster Greatsword (Chongyun).
 
 ## Still unknown
 One unused 4★ bow at Lv 1 (new) – one of several Lv 1 bows, name still open.
-Holders of Rainslasher Lv 40, Rainslasher Lv 20 and Prototype Archaic Lv 20 – claymore users not yet
-showcased are Diluc, Chongyun and Freminet (batch 3).
+Holder of Rainslasher Lv 40 R3: every claymore user has now been through the showcase and none holds it,
+so the icon may be misread or it is unequipped – check in-game.
