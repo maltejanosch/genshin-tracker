@@ -23,7 +23,7 @@ Holder `?` = portrait visible but character not identified yet.
 | Lost Prayer to the Sacred Winds | Catalyst | 20 | 1 | Barbara | Enka |
 | Amos' Bow | Bow | 1 | 1 | – | Owner (new) |
 
-## 4★ equipped (22)
+## 4★ equipped (21)
 
 | Weapon | Type | Lv | R | Holder | Status |
 |---|---|---|---|---|---|
@@ -37,7 +37,6 @@ Holder `?` = portrait visible but character not identified yet.
 | Dragon's Bane | Polearm | 50 | 5 | Xiangling | Enka |
 | Favonius Warbow | Bow | 40 | 2 | Faruzan | Enka |
 | "Ultimate Overlord's Mega Magic Sword" | Claymore | 40 | 5 | Gaming | Enka |
-| Rainslasher | Claymore | 40 | 3 | ? | Icon? |
 | Sword of Descension | Sword | 40 | 1 | Lynette | Enka |
 | The Stringless | Bow | 20 | 3 | Collei | Enka |
 | Prototype Amber | Catalyst | 20 | 1 | Neuvillette | Enka |
@@ -50,10 +49,11 @@ Holder `?` = portrait visible but character not identified yet.
 | Dragon's Bane | Polearm | 1 | 1 | Alyosha | Enka |
 | New Bough | Sword | 1 | 1 | Vesna | Enka |
 
-## 4★ unused (22)
+## 4★ unused (23)
 
 | Weapon | Type | Lv | R | Status |
 |---|---|---|---|---|
+| Rainslasher | Claymore | 40 | 3 | Owner |
 | Mappa Mare | Catalyst | 20 | 1 | Icon |
 | Favonius Codex | Catalyst | 20 | 4 | Icon? |
 | Sacrificial Sword | Sword | 20 | 1 | Owner (probably) |
@@ -97,5 +97,3 @@ Apprentice's Notes (Charlotte, Mona), Waster Greatsword (Chongyun).
 
 ## Still unknown
 One unused 4★ bow at Lv 1 (new) – one of several Lv 1 bows, name still open.
-Holder of Rainslasher Lv 40 R3: every claymore user has now been through the showcase and none holds it,
-so the icon may be misread or it is unequipped – check in-game.
