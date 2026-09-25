@@ -7,6 +7,23 @@ Stand: 25.09.2026 · Source: Enka API snapshot
 - Spiral Abyss best: 10-3 (18★) · Stygian Onslaught: 41s
 - Next goal: Abyss floors 11–12 (needs two built teams, see `teams.md`)
 
+## Akasha rankings (25.09.2026)
+Source: https://akasha.cv/profile/762018318 – percentile among all players with that character on that leaderboard.
+Low ranks mostly come from unlevelled weapons and wrong main stats; re-check after fixing builds.
+| Character | Leaderboard | Rank | Crit Value |
+|---|---|---|---|
+| Lisa | Nuke R1 | top 76% | 0.0 |
+| Yanfei | Vape R1 | top 83% | 3.3 |
+| Noelle | Hyper R5 | top 84% | 0.0 |
+| Furina | Vape R5 / Skill R5 | top 86% / 89% | 86.0 |
+| Raiden Shogun | Hyper R1 | top 88% | 59.6 |
+| Xingqiu | Burst R5 | top 88% | 14.9 |
+| Fischl | Oz R1 | top 91% | 7.8 |
+| Nahida | Off-field R1 | top 94% | 0.0 |
+| Odette | Stellar R5 | top 95% | 53.8 |
+| Neuvillette | Hyper R5 | top 95% | 16.8 |
+Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29.5 · Faruzan 16.2 · Kaeya 15.9
+
 ## Vesna (Lv 50, C0) – Team 1 main DPS
 - Weapon: New Bough 4★, **Lv 1**
 - Artifacts: 5pc Scarlet Proof, 5★ but mostly +0 · Sands ATK% (+4) · Goblet HP% · Circlet CRIT DMG

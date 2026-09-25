@@ -9,6 +9,8 @@ This repo tracks Malte's Genshin Impact account. Keep it current; it replaces fe
 ## Account
 - UID 762018318 (EU), in-game name YakaMono
 - Enka raw data: https://enka.network/api/uid/762018318 (only characters in the in-game showcase)
+- Akasha: https://akasha.cv/profile/762018318 – leaderboard ranks + crit value; keeps every character ever
+  showcased (not just the current showcase). Cloudflare blocks curl, so read it via the browser.
 
 ## Commands
 Python 3.9+, standard library only. No tests or linter.
