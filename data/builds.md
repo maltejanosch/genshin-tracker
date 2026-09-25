@@ -218,8 +218,20 @@ Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29
 | Ningguang Lv 50 C2 | Eye of Perception Lv 11 R2 | 4 / 4 / 4 | 2pc Archaic Petra + 2pc Gladiator's; HP%/DEF%/DEF% mains |
 | Lynette Lv 50 C4 | Sword of Descension Lv 40 R1 | 1 / 1 / 1 (+3) | 1–4★ filler |
 | Alyosha Lv 50 C2 | Dragon's Bane Lv 1 R1 | 1 / 1 / 1 | mixed 4–5★, mostly +0; ER% sands |
+| Kaveh Lv 50 C2 | Bloodtainted Greatsword 3★ Lv 57 R5 | 2 / 2 / 2 | 3pc Emblem + 2pc Millelith; DEF% sands/goblet, EM circlet |
+| Collei Lv 50 C2 | The Stringless Lv 20 R3 | 1 / 1 / 1 | 5pc Gambler, 3–4★ +0; Pyro goblet |
+| Kuki Shinobu Lv 50 C0 | Dull Blade 1★ Lv 1 | 2 / 2 / 2 | none |
+| Ororon Lv 50 C0 | Favonius Warbow Lv 12 R1 | 1 / 1 / 1 | 4pc Emblem; ATK% sands (+13), rest mostly +0 |
+| Aino Lv 40 C1 | Debate Club 3★ Lv 21 R5 | 1 / 1 / 1 | mixed 2pc sets, all +0; Hydro goblet |
+| Kachina Lv 40 C1 | Dragon's Bane Lv 20 R1 | 1 / 1 / 1 | mixed 2pc sets, all +0; Geo goblet |
+| Kirara Lv 40 C0 | Dull Blade 1★ Lv 1 | 1 / 1 / 1 | 1–3★ filler |
+| Manekina Lv 20 C0 | Dull Blade 1★ Lv 1 | 1 / 1 / 1 | none |
+| Lyney Lv 20 C0 | Slingshot 3★ Lv 1 R2 | 1 / 1 / 1 | 3–4★ filler; Physical goblet |
+| Qiqi Lv 20 C0 | Dull Blade 1★ Lv 1 | 1 / 1 / 1 | none |
+| Jean Lv 20 C0 | Skyrider Sword 3★ Lv 20 R3 | 1 / 1 / 1 | 4pc Bloodstained Chivalry, all +0 |
+| Jahoda Lv 20 C0 | Hunter's Bow 1★ Lv 1 | 1 / 1 / 1 | mixed 4–5★; ATK% circlet +12 |
 
 ## Not checked yet
 No weapon/artifact/talent data yet (Enka only sees the in-game showcase).
 Put these in the showcase in batches, then refresh:
-- Kaveh, Collei, Kuki Shinobu, Ororon, Aino, Kachina, Kirara, Manekina, Lyney, Qiqi, Jean, Jahoda, Thoma, Rosaria, Mona, Diluc, Charlotte, Freminet, Layla, Candace, Kujou Sara, Gorou, Chongyun
+- Thoma, Rosaria, Mona, Diluc, Charlotte, Freminet, Layla, Candace, Kujou Sara, Gorou, Chongyun

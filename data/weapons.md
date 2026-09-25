@@ -39,13 +39,13 @@ Holder `?` = portrait visible but character not identified yet.
 | "Ultimate Overlord's Mega Magic Sword" | Claymore | 40 | 5 | Gaming | Enka |
 | Rainslasher | Claymore | 40 | 3 | ? | Icon? |
 | Sword of Descension | Sword | 40 | 1 | Lynette | Enka |
-| The Stringless | Bow | 20 | 3 | ? (green hair – Collei?) | Icon |
+| The Stringless | Bow | 20 | 3 | Collei | Enka |
 | Prototype Amber | Catalyst | 20 | 1 | Neuvillette | Enka |
-| ? | ? | 20 | 1 | ? | |
+| Dragon's Bane | Polearm | 20 | 1 | Kachina | Enka |
 | Prototype Archaic | Claymore | 20 | 1 | ? | Icon? |
 | Rainslasher | Claymore | 20 | 1 | Diluc? | Icon? |
 | Sacrificial Bow | Bow | 14 | 1 | Diona | Enka |
-| ? | ? | 12 | 1 | ? | |
+| Favonius Warbow | Bow | 12 | 1 | Ororon | Enka |
 | Eye of Perception | Catalyst | 11 | 2 | Ningguang | Enka |
 | Dragon's Bane | Polearm | 1 | 1 | Alyosha | Enka |
 | New Bough | Sword | 1 | 1 | Vesna | Enka |
@@ -77,21 +77,23 @@ Holder `?` = portrait visible but character not identified yet.
 
 | Weapon | Type | Lv | R | Holder | Status |
 |---|---|---|---|---|---|
-| Bloodtainted Greatsword | Claymore | 57 | 5 | ? (blonde) | Icon |
+| Bloodtainted Greatsword | Claymore | 57 | 5 | Kaveh | Enka |
 | Emerald Orb | Catalyst | 53 | 5 | – | Icon |
 | Recurve Bow | Bow | 40 | 5 | – | Icon |
 | Thrilling Tales of Dragon Slayers | Catalyst | 40 | 5 | Yanfei | Enka |
 | Skyrider Greatsword | Claymore | 40 | 2 | Noelle | Enka |
 | Traveler's Handy Sword | Sword | 40 | 4 | – | Icon |
 | Cool Steel | Sword | 40 | 5 | – | Icon |
-| Debate Club | Claymore | 21 | 5 | ? (pink hair) | Icon |
+| Debate Club | Claymore | 21 | 5 | Aino | Enka |
 | Emerald Orb | Catalyst | 20 | 1 | Lisa | Enka |
 | Otherworldly Story | Catalyst | 20 | 3 | – | Icon |
 | Magic Guide | Catalyst | 20 | 1 | – | Icon |
 
-Not on these pages: Bennett's Skyrider Sword (3★ Lv 20 R5), Yaoyao's Black Tassel (3★ Lv 20 R5),
-Fischl's, Amber's and Tighnari's Hunter's Bow (1★).
+Not on these pages: Bennett's Skyrider Sword (3★ Lv 20 R5), Jean's Skyrider Sword (3★ Lv 20 R3),
+Yaoyao's Black Tassel (3★ Lv 20 R5), Lyney's Slingshot (3★ Lv 1 R2),
+Hunter's Bow (1★) on Fischl, Amber, Tighnari and Jahoda, Dull Blade (1★) on Kuki Shinobu, Kirara, Manekina and Qiqi.
 
 ## Still unknown
-Four 4★ weapons (sword Lv 20 R1 unused, bow Lv 1 new unused, two equipped at Lv 20 and Lv 12)
-and most holder portraits. Holders fill in as characters go through the Enka showcase.
+Two unused 4★ weapons: a sword at Lv 20 R1 and a new bow at Lv 1.
+Holders of Rainslasher Lv 40, Rainslasher Lv 20 and Prototype Archaic Lv 20 – claymore users not yet
+showcased are Diluc, Chongyun and Freminet (batch 3).

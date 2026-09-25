@@ -2,7 +2,8 @@
   "characters": {
     "10000150": "Odette",
     "10000143": "Vesna",
-    "10000148": "Alyosha"
+    "10000148": "Alyosha",
+    "10000118": "Manekina"
   },
   "weapons": {
     "UI_EquipIcon_Sword_Mitsurugi": "Skyrider Sword",
@@ -21,7 +22,10 @@
     "UI_EquipIcon_Pole_Stardust": "Dragon's Bane",
     "UI_EquipIcon_Catalyst_Fossil": "Sacrificial Fragments",
     "UI_EquipIcon_Catalyst_Truelens": "Eye of Perception",
-    "UI_EquipIcon_Bow_Fossil": "Sacrificial Bow"
+    "UI_EquipIcon_Bow_Fossil": "Sacrificial Bow",
+    "UI_EquipIcon_Claymore_Reasoning": "Debate Club",
+    "UI_EquipIcon_Bow_Sling": "Slingshot",
+    "UI_EquipIcon_Bow_Troupe": "The Stringless"
   },
   "sets": {
     "15020": "Emblem of Severed Fate",
@@ -36,6 +40,7 @@
     "10011": "Lucky Dog",
     "14001": "Blizzard Strayer",
     "10010": "Adventurer",
-    "10012": "Scholar"
+    "10012": "Scholar",
+    "10008": "Gambler"
   }
 }
