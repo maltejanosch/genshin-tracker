@@ -58,7 +58,7 @@ Holder `?` = portrait visible but character not identified yet.
 | Mappa Mare | Catalyst | 20 | 1 | Icon |
 | Favonius Codex | Catalyst | 20 | 4 | Icon? |
 | Sacrificial Sword | Sword | 20 | 1 | Owner (probably) |
-| Silver Light | Sword | 1 | ? | Owner (7.1 event, 01.10.2026) – planned for Vesna |
+| Silver Light | Sword | 20 | 1 | Owner (7.1 event, 01.10.2026) – planned for Vesna |
 | ? | Bow | 1 | 1 | (new) |
 | Rust ×2 | Bow | 1 | 1 | Icon |
 | Sacrificial Bow ×3 | Bow | 1 | 1 | Icon |
