@@ -1,6 +1,6 @@
 # Build notes
 
-Stand: 25.09.2026 · Source: Enka API snapshot
+Stand: 01.10.2026 · Source: Enka API snapshot (Vesna level/talents from Malte, 01.10.2026)
 
 ## Account
 - AR 57 · World Level 8 · 863 achievements
@@ -29,7 +29,7 @@ Weapon level matters little for HP scalers (Neuvillette, Furina) and EM scalers 
 4. [ ] **Bennett weapon** – Kagotsurube Isshin **Lv 60** (weapon base ATK 353, 30.4% ATK; 25.09.2026) – already stronger than the old Skyrider Sword; finish 60 → 80+. His burst buff = % of base ATK. Cheap
 5. [x] **Xingqiu** – Favonius Sword Lv 80, ATK%/Hydro/CRIT DMG mains, Skill 6 / Burst 8 (+3) – done 25.09.2026. Leftovers (artifact levels) are in his section
 6. [ ] **Faruzan → Lv 80** – ascend (Lv 60 cap), ER% sands, level her VV pieces. Resin
-7. [ ] **Vesna → Lv 80** – ascend (Lv 50 cap), Skill talent 2 → 6+, level New Bough. Big resin cost – do it only if you enjoy playing her
+7. [x] **Vesna → Lv 80** – done 01.10.2026 (talents 5 / 7 / 6). Next: equip and level Silver Light (Lv 20 R1)
 8. [ ] **Neuvillette weapon** – Ballad of the Boundless Blue equipped (Lv 20, 25.09.2026); level it to 80+. Small gain since he scales on HP. Cheap
 9. [ ] **Raiden weapon 80 → 90** (ATK scaler); Furina/Odette 80 → 90 only when spare Mora/ore. Cheap
 10. [ ] **Xiangling** – goblet DEF% → Pyro DMG, sands EM → ER% (she has only 120% ER, National wants ~180%+), level Dragon's Bane R5 50 → 80+ (EM substat). Cheap if pieces exist
@@ -51,15 +51,15 @@ Low ranks mostly come from unlevelled weapons and wrong main stats; re-check aft
 | Neuvillette | Hyper R5 | top 95% | 16.8 |
 Crit Value of the rest: Razor 101.1 · Traveler 91.4 · Bennett 47.7 · Vesna 29.5 · Faruzan 16.2 · Kaeya 15.9
 
-## Vesna (Lv 50, C0) – Team 1 main DPS
+## Vesna (Lv 80, C0) – Team 1 main DPS
 - Weapon: New Bough 4★, **Lv 1**
 - Artifacts: 5pc Scarlet Proof, 5★ but mostly +0 · Sands ATK% (+4) · Goblet HP% · Circlet CRIT DMG
 - Stats: ~435 ATK · 13% CR / 85% CD · 105% ER
-- Talents: NA 2 / Skill 2 / Burst 2
+- Talents: NA 5 / Skill 7 / Burst 6 (01.10.2026)
 - **To fix:**
-  - [ ] Ascend (phase 2, capped at Lv 50) and level to 90 – biggest gap on the account
-  - [ ] Skill talent first
-  - [ ] Level weapon (or switch to Emberwell / Silver Light, see `teams.md`)
+  - [x] Ascend and level 50 → 80 (01.10.2026); 80 → 90 later if Mora allows
+  - [x] Skill talent first (Skill 7, 01.10.2026)
+  - [ ] Switch to Silver Light (owned, Lv 20 R1) and level it 20 → 80+
   - [ ] Goblet: replace HP% with ATK% (planned mains ATK% / ATK% / CRIT DMG); level all pieces
 
 ## Odette (Lv 90, C1) – Team 1

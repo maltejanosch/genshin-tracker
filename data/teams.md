@@ -1,12 +1,12 @@
 # Teams
 
-Stand: 25.09.2026 · Version 7.1
+Stand: 01.10.2026 · Version 7.1
 
 ## Team 1 – Vesna Stellar Swirl (main)
 Vesna · Odette · Faruzan (C6) · Cryo Traveler
 - Swap: Diona for Cryo Traveler if a shield is needed; Sucrose for Faruzan
 - Vesna: 4pc Scarlet Proof, ATK% / ATK% / CRIT DMG; weapons Emberwell (craftable) or Silver Light (event)
-- **Missing:** Vesna Lv 50 → 90 + Skill talent (biggest gap) · Faruzan Lv 60 → 80+
+- **Missing:** Vesna's weapon (Silver Light Lv 20 → 80+) · Faruzan Lv 60 → 80+ · Vesna Lv 80 (talents 5/7/6) done 01.10.2026
 
 ## Team 2 – Neuvillette Hydro
 Neuvillette · Furina · Sucrose · Diona
