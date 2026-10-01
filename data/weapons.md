@@ -1,6 +1,6 @@
 # Weapon inventory
 
-Stand: 25.09.2026 · Source: 2 in-game screenshots (Inventory → Weapons, 113/2000, sorted by Quality),
+Stand: 01.10.2026 · Source: 2 in-game screenshots (Inventory → Weapons, 113/2000, sorted by Quality),
 matched against official weapon icons (Project Amber) and cross-checked with the Enka snapshot
 
 Covers the first 60 of 113 weapons: all 5★ and 4★, plus the highest-level 3★. The rest are 3★ and lower.
@@ -50,7 +50,7 @@ Holder `?` = portrait visible but character not identified yet.
 | Kagotsurube Isshin | Sword | 60 | 1 | Bennett | Owner |
 | Favonius Sword | Sword | 80 | 1 | Xingqiu | Enka |
 
-## 4★ unused (22)
+## 4★ unused (23)
 
 | Weapon | Type | Lv | R | Status |
 |---|---|---|---|---|
@@ -58,6 +58,7 @@ Holder `?` = portrait visible but character not identified yet.
 | Mappa Mare | Catalyst | 20 | 1 | Icon |
 | Favonius Codex | Catalyst | 20 | 4 | Icon? |
 | Sacrificial Sword | Sword | 20 | 1 | Owner (probably) |
+| Silver Light | Sword | 1 | ? | Owner (7.1 event, 01.10.2026) – planned for Vesna |
 | ? | Bow | 1 | 1 | (new) |
 | Rust ×2 | Bow | 1 | 1 | Icon |
 | Sacrificial Bow ×3 | Bow | 1 | 1 | Icon |
